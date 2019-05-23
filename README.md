@@ -1,3 +1,8 @@
+Mental Math Generator with Anki Decks
+========
+
+![Decks](https://i.imgur.com/7hlzr2f.png)
+
 Script to generate this Anki deck: https://ankiweb.net/shared/info/372683967
 
 Also contains the subdecks as Anki dosen't seem to preserve the order.
